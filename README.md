@@ -6,7 +6,7 @@
   - [Professional Statement Example](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Security Audit Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-  - <h2>Certifications</h2>
+  - <h2>📜Certifications</h2>
 
   Google Cybersecurity
 
