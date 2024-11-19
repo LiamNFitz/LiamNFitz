@@ -8,6 +8,8 @@
 
   - <h2>Certifications</h2>
 
+  Google Cybersecurity
+
 
 
 <h2> Connect with me:</h2>
