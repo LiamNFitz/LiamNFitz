@@ -15,7 +15,7 @@
   
   CompTIA Security+
 
-  Coding Dojo Bootcamp Cetrification
+  Coding Dojo Bootcamp Certification
 
 
 
