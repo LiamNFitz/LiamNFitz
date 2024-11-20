@@ -15,6 +15,8 @@
   
   CompTIA Security+
 
+  Coding Dojo Bootcamp Cetrification
+
 
 
 <h2> 📲Connect with me:</h2>
